@@ -62,24 +62,26 @@ The project follows the **Medallion Architecture**, organizing data into three l
 
 ## 📂 Project Structure
 
+```text
 📦 DataWarehouse-Analytics-SQL
 │
 ├── SQL/
-│ ├── 01_bronze_ingest.sql
-│ ├── 02_silver_clean.sql
-│ ├── 03_gold_model.sql
-│ ├── 04_analysis_queries.sql
+│   ├── 01_bronze_ingest.sql
+│   ├── 02_silver_clean.sql
+│   ├── 03_gold_model.sql
+│   ├── 04_analysis_queries.sql
 │
 ├── Documentation/
-│ ├── architecture.drawio
-│ ├── data_dictionary.md
-│ ├── etl_process.md
+│   ├── architecture.drawio
+│   ├── data_dictionary.md
+│   ├── etl_process.md
 │
 ├── Datasets/
-│ ├── ERP_Sales.csv
-│ ├── CRM_Customers.csv
+│   ├── ERP_Sales.csv
+│   ├── CRM_Customers.csv
 │
 └── README.md
+
 
 ---
 
