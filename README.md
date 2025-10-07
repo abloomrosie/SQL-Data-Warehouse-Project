@@ -82,7 +82,7 @@ The project follows the **Medallion Architecture**, organizing data into three l
 │
 └── README.md
 
-
+```
 ---
 
 ## ⚙️ Tools & Technologies
